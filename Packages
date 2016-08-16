@@ -3,7 +3,7 @@ Version: 3.0.0
 Architecture: iphoneos-arm
 Maintainer: moshed <moshedancykier@gmail.com>
 Depends: lynx,  com.rob311.sshmediacontrols, coreutils, net.tateu.sendtestbulletin, net.angelxwind.mikoto
-Filename: debs/lyrics_2.1.1.deb
+Filename: debs/com.moshed.lyrics_2.1.1.deb
 Size: 2414
 MD5sum: 9acad69340bffce44cafabbf0044c5b8
 SHA1: 1f57f08137de0ec6873af613ac789ccf5fff34e2
@@ -12,4 +12,4 @@ Section: CLI
 Description: Fetches lyrics.
 Author: moshed <moshedancykier@gmail.com>
 Depiction:
-Name: azlyrics
+Name: lyrics
