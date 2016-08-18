@@ -1,0 +1,12 @@
+Package: com.moshed.lyrics
+Version: 3.0.1
+Section: Addons
+Maintainer: moshed
+Depends: lynx,  com.rob311.sshmediacontrols, coreutils, net.tateu.sendtestbulletin, net.angelxwind.mikoto
+Architecture: iphoneos-arm
+Filename: .//debs/com.moshed.lyrics_3.0.1.deb
+Size: 2454
+MD5sum: 452e5bb303c5e353f1dea82a73ffe795
+Description: fetches lyrics
+Author: moshed
+Homepage:
