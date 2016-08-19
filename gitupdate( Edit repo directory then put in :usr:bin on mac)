@@ -1,0 +1,5 @@
+#!/bin/bash
+cd /*put git directory here*
+git add *
+git rm $(git ls-files --deleted)
+git commit -m "uploaded $(date)"git push origin master
