@@ -15,7 +15,7 @@ Depiction: http://carlyd95.github.io/repo/depics/dailytext.html
 Package: com.moshed.onips
 Version: 2.0.0
 Section: App Addons (OpenNotifier)
-Maintainer: moshed <moshedancykier@gmail.com>
+Maintainer:
 Depends: com.n00neimp0rtant.opennotifier
 Architecture: iphoneos-arm
 Filename: .//debs/com.moshed.onips_2.0.0.deb
