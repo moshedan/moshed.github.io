@@ -1,8 +1,8 @@
-Origin: Moshed
-Label: Moshed
+Origin: carlyd95's Repo
+Label: carlyd95
 Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
+Version: 2.0
+Codename: carlyd95's Cydia repo
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: This is a tutorial repository created by /u/WinneonSword! rawr
+Description: Cydia Repo maintained by Carlton Dunlap Through GitHub Pages for free!😜 I miss her 😕
