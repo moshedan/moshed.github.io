@@ -27,7 +27,7 @@ Author: moshed <moshedancykier@gmail.com>
 Depiction:
 
 Package: com.moshed.lyrics
-Version: 3.0.0
+Version: 3.0.1
 Section: Addons
 Maintainer: moshed <moshedancykier@gmail.com>
 Depends: lynx,  com.rob311.sshmediacontrols, coreutils, net.tateu.sendtestbulletin, net.angelxwind.mikoto
